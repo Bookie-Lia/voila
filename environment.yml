@@ -3,6 +3,7 @@ channels:
 - conda-forge
 dependencies:
 - altair
+- wordcloud
 - matplotlib-base
 - numpy
 - pandas
